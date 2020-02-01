@@ -6,6 +6,8 @@
 
 This is a simple helper package to make generating [http://fullcalendar.io](http://fullcalendar.io) in Laravel apps easier.
 
+Laravel 6 is supported
+
 ## Installing
 Require the package with composer using the following command:
 
